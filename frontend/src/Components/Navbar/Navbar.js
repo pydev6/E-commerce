@@ -40,7 +40,7 @@ const Navbar = () => {
       <div className="nav-login-cart">
         <button>login</button>
         <img src={cart_icon} alt="shopping-cart" />
-        <div className="nav-cart-count">0</div>
+        <div className="nav-cart-count">1</div>
       </div>
     </div>
   );
