@@ -34,6 +34,10 @@
     align-items: center;
     justify-content: center;
     gap: 3px;
+
+}
+
+.nav-menu li {
     cursor: pointer;
 }
 
@@ -43,6 +47,7 @@
     height: 3px;
     border-radius: 10px;
     background: #ff4141;
+    margin-top: 5px;
 }
 
 .nav-login-cart {
