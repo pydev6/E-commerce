@@ -146,7 +146,7 @@ let all_product = [
     category: 'men',
     image: p14_img,
     new_price: 85.0,
-    old_price: 120.5,
+    old_price: 220.5,
   },
   {
     id: 15,
