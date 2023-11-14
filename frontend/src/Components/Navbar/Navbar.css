@@ -7,15 +7,22 @@
 
 .nav-logo {
     display: flex;
+
     align-items: center;
-    gap: 10px;
+    justify-content: center;
+    gap: 15px;
+}
+
+.nav-logo:link {
+    text-decoration: none;
 }
 
 .nav-logo p {
     color: #171717;
+    align-self: self-end;
     font-size: 38px;
     font-weight: 600;
-    ;
+
 }
 
 .nav-menu {
@@ -57,8 +64,8 @@
 }
 
 .nav-login-cart button {
-    width: 157px;
-    height: 58px;
+    width: 135px;
+    height: 45px;
     outline: none;
     border: 1px solid #7a7a7a;
     border-radius: 75px;
